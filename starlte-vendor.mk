@@ -55,7 +55,6 @@ PRODUCT_PACKAGES += \
     libopenvx \
     libaudioeffectoffload \
     lib_SamsungRec_06006 \
-    libaudioproxy \
     librecordalive \
     libwvhidl \
     libkeymaster_helper_vendor
