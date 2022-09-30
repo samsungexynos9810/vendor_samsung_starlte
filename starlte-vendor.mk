@@ -54,7 +54,6 @@ PRODUCT_PACKAGES += \
     libhifistill \
     libopenvx \
     libaudioeffectoffload \
-    audio.primary.exynos9810 \
     lib_SamsungRec_06006 \
     libaudioproxy \
     librecordalive \
